@@ -5,5 +5,4 @@ date: 2024-12-04
 
 This is a new post
 
- ![](../_images/vert_velocity_and_topo.png)
- ![]({{ '../assets/images/vert_velocity_and_topo.png' | relative_url }})
+ ![Double sub first try]({{ '/assets/images/vert_velocity_and_topo.png' | relative_url }})
