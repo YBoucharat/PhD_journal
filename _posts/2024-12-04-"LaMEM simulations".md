@@ -1,5 +1,5 @@
 ---
-title: "YOUR-TITLE"
+title: "LaMEM simulations"
 date: 2024-12-04
 ---
 
