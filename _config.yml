@@ -2,3 +2,6 @@ theme: minima
 title: PhD Journal
 author: Yannick Boucharat
 description: A step by step description of my advances  
+website: https://yboucharat.github.io/
+basewebsite: /PhD_journal
+permalink: date
